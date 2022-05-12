@@ -1,0 +1,16 @@
+node_modules
+/data
+just-postgresql
+/letsencrypt
+/service
+/try
+
+/backend/.env
+/backend/dist
+/postgresql/data
+
+example.yml
+funciona.yml
+important.txt
+newtry.yml
+docker-compose.yml
